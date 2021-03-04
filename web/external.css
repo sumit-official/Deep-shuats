@@ -1,0 +1,33 @@
+body{
+	background-color: lightblue;
+}
+form{
+	padding-left:20px;
+}
+input{
+	padding-left:20px;
+}
+p{
+    font-size:large;
+	font-style: bold;
+    text-align:center;
+}
+head{
+	font-size: 14px;
+}
+.pad_bot{
+	padding-bottom: 10px;
+}
+.imgone{
+	padding-top: 20px;
+	padding-bottom:20px;
+}
+button{
+	width: 200px;
+	border:none;
+	background-color: blueviolet;
+	color: white;
+}
+label{
+	padding-top: 10px;
+}
